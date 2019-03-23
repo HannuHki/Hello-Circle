@@ -1,3 +1,0 @@
-mkdir .circleci
-touch .circleci/config.yml
-
